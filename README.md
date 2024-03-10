@@ -26,4 +26,4 @@
 </div>
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauaamelo&theme=tokyonight)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kauaamelo&layout=compact&bg_color=100F0B9A&border_color=55FF30FF&title_color=55FF30FF&text_color=FFF)
